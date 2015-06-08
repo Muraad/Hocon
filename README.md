@@ -2,7 +2,8 @@
 A Hocon configuration source for aspnet configuration (Microsoft.Framework.Configuration)
 
 
-The hocon implementation is a fork of https://github.com/4agenda/OGS.HOCON
+The hocon implementation is a fork of https://github.com/4agenda/OGS.HOCON where everything is packed into one 
+big file (Hocon.cs).
 
 This repository provides a Hocon IConfigurationSource for https://github.com/aspnet/Configuration
 
